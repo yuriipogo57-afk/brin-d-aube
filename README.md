@@ -18,3 +18,7 @@ Ouvrez `index.html` dans un navigateur.
 ## Publier avec GitHub Pages
 
 Settings → Pages → *Deploy from a branch* → `main` / `(root)`. Le site sera servi à `https://<utilisateur>.github.io/brin-d-aube/`.
+
+## Photos
+
+Les photos du dossier `images/` viennent d'[Unsplash](https://unsplash.com) et sont utilisées sous la [licence Unsplash](https://unsplash.com/license). L'identifiant Unsplash de chaque photo est indiqué dans `index.html` (champ `photo.id` de chaque bouquet). Si une photo manque, la page affiche le dessin du bouquet à la place.
